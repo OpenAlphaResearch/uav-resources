@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-List of open-source algorithms and resources for autonomous drones. The list is a work in progress, so some information may be wrong and lots of useful resources are still missing.
+List of open-source algorithms and resources for autonomous drones. The list is a work in progress, so some information may be wrong and lots of useful resources are still missing, note many may be somewhat deprecated. 
 
 ## Perception
 
