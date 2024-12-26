@@ -1,4 +1,6 @@
-# uav-resources-a
+# uav-resources
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 List of open-source algorithms and resources for autonomous drones. The list is a work in progress, so some information may be wrong and lots of useful resources are still missing.
 
@@ -123,9 +125,7 @@ List of open-source algorithms and resources for autonomous drones. The list is 
 | [ZJU FAST Lab](http://zju-fast.com/) | [Link](https://github.com/ZJU-FAST-Lab) | Hangzhou, China |
 
 
-# uav-resources-b
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# tutorials and products
 
 This is a list of various resources related to drones, UAV's and quadcopters. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
 
